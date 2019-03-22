@@ -1,0 +1,10 @@
+
+{
+	"upcomingmovie":[
+{"name":"Captain Marvel","image":"https://i.imgur.com/N51kuT9.jpg","director":"Anna Boden, Ryan Fleck","release":"2019"},
+{"name":"Avengers: Endgame","image":"https://i.imgur.com/xwWBp7l.jpg","director":"Anthony Russo, Joe Russo","release":"2019"},
+{"name":"Spider-Man: Far From Home","image":"https://i.imgur.com/7sfi6FS.jpg","director":"Jon Watts","release":"2019"},
+{"name":"Black Widow","image":"https://i.imgur.com/PG9wAue.jpg","director":"Yet to decide","release":"2020"},
+{"name":"Guardians of the Galaxy Vol. 3","image":"https://i.imgur.com/tn4zAAO.jpg","director":"Yet to decide","release":"2020"}
+]
+}
